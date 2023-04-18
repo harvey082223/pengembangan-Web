@@ -1,2 +1,2 @@
 # pengembangan-Web
-Untuk pengumpulan tugasyang ada di labolatorium komputer mikroskil
+Untuk pengumpulan tugas yang ada di labolatorium komputer mikroskil
